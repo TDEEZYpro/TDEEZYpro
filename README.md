@@ -25,9 +25,6 @@ I'm an independent creator crafting experiences across multiple digital realms. 
 
 #
 
-### 📺 Latest Projects
-
-#
 
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TDEEZYpro&layout=compact&langs_count=8)
