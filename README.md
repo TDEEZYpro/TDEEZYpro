@@ -1,4 +1,4 @@
-# 🏄‍♂️ Nkosinathi Mnguni
+# 🏄‍♂️ Nkosinathi Gift Mnguni
 
 **`Digital Artist (Developer/Visualist)`**
 
@@ -32,6 +32,7 @@ I'm an independent creator crafting experiences across multiple digital realms. 
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=TDEEZYpro&show_icons=true&theme=gruvbox&hide=contribs,prs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TDEEZYpro&layout=compact)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
