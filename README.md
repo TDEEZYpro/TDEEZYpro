@@ -50,6 +50,7 @@ Digital solution for maintenance tracking
 ### 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDEEZYpro&layout=compact&langs_count=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=TDEEZYpro)
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
