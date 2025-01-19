@@ -26,7 +26,7 @@ I'm a tech enthusiast focused on building digital solutions that matter. My pass
 - Cross-platform Mobile Development using React Native
 - System Architecture Design and Optimization
 - AI/ML Integration in Web Applications
-###
+--
 ### 🌟 Featured Projects
 
 #### Med-Mobi Chatbot
@@ -46,7 +46,7 @@ Digital solution for maintenance tracking
 - Streamlined reporting system
 - Mobile-responsive design
 - Real-time status updates
-###
+--
 ### 📈 GitHub Stats
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=TDEEZYpro&title=Commits,Experience,Repositories)
