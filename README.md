@@ -53,8 +53,6 @@ Digital solution for maintenance tracking
 
 ### 📈 GitHub Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=TDEEZYpro&title=Commits,Experience,Repositories)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDEEZYpro&layout=compact&langs_count=8)
 
 <details>
